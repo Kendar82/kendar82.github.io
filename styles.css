@@ -8,6 +8,10 @@ h1 {
     color: black;
 }
 
+h4 {
+    margin: 1%;
+}
+
 p {
     text-align: left;
     font-family:'Times New Roman';
